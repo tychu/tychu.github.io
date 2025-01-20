@@ -21,8 +21,8 @@ author: TingYing Chu
 
 navbar-links:
   PROJECTS: "project"
-  BIOGRAPHY: "biography"
-  RESUME: "resume"
+  BIOGRAPHY: "readme"
+  RESUME: "https://drive.google.com/file/d/1llJxls0Q4TNsleidCiGcfTZz6buyrnnX/view?usp=share_link"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
