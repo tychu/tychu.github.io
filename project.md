@@ -4,14 +4,9 @@ title: Projects
 
 ### Master thesis at IMEC
 
-- Topics: Radar Image Reconstruction with raw ADC  data
-- Implemented and altered the end-to-end Swin Vision Transformer model (T-FFTRadNet) for object detection task via **Python(Pytorch, Optuna (with PostgreSQL), wandb and ddp)**
-- Trained the model on the server via **NoMachine and Ubuntu OS command**
-- Simulated MIMO FMCW raw ADC data via **MATLAB**
+This master's thesis investigates end-to-end deep learning models for radar-based object detection, focusing on directly processing raw Analog-to-Digital Converter (ADC) data. The research compares this approach to traditional methods using pre-processed radar data, such as Range-Doppler maps. Several novel model architectures are proposed and evaluated, including Extended T-FFTRadNet and ADAT-FFTRadNet, which incorporate advanced techniques like Swin Transformers and adaptive-directional attention. The study uses a simulated radar dataset for training and testing, and results demonstrate the potential advantages of processing raw ADC data for improved accuracy and efficiency in object detection. The thesis concludes by suggesting avenues for future research to optimize the proposed models.
 
-To broaden my expertise, I chose to focus on computer vision for my master’s thesis rather than continuing exclusively in NLP. My thesis at IMEC tackled an object detection task, reconstructing images from raw ADC (analog-to-digital converter) radar data using deep learning models.To enhance performance beyond the state-of-the-art model,T-FFTRadNet, I introduced several innovations.
-
-[thesis](https://drive.google.com/file/d/1We_Tj7kH5zQnx3tgekpDHJgRcONtFNU5/view?usp=share_link) [presentation sildes](https://docs.google.com/presentation/d/1KlJTsk33StyRPe2G0YCraMqLanC6UunY/edit?usp=share_link&ouid=101362260797356761769&rtpof=true&sd=true)
+[thesis](https://drive.google.com/file/d/1We_Tj7kH5zQnx3tgekpDHJgRcONtFNU5/view?usp=share_link) [presentation sildes](https://drive.google.com/file/d/1EPF1iVZVnIMF0pT87eEEiJqcJddPANxU/view?usp=share_link)
 
 ### Internship in BMW Group
 
