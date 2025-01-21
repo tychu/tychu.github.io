@@ -10,10 +10,13 @@ This master's thesis investigates end-to-end deep learning models for radar-base
 
 ### Internship in BMW Group
 
-- Built language models (Sentence BERT) for sentence similarity tasks via **Python, Docker, and Git**
-- Developing and deploying sentence similarity API on the server via **Python and Ubuntu OS command**
-- Built interactive business analytic dashboard for HR Analytic Use Cases via **Tableau**
+I worked as a Data Analytics Intern in the Process, Digitization and Governance Department at BMW Group in Munich, Germany from March 2022 to August 2022. During this internship, Chu played a key role in a data analytics project focused on the digital transformation of the Human Resource department.
 
-I am deeply interested in exploring various areas of machine learning and implement it to solve real-world problems.This curiosity led me to take courses across different fields and pursue an NLP-focused internship at BMW. During the FUMA project, I played a pivotal role in a data analytics project centered on the digital transformation of the Human Resource department. My responsibilities included identifying and analyzing challenges within the HR department, conducting comprehensive research to devise suitable solutions sourced from academic papers and articles.
+My responsibilities included:
+• Identifying and analyzing challenges within the HR department.
+• Conducting comprehensive research to devise suitable solutions based on academic papers and articles.
+• **Deploying a multilingual sentence-BERT model** to identify similar documents, reducing the need for manual searches.
+• Testing the model with public and company datasets to ensure its performance.
+• Adapting the model for server deployment using FastAPI to create a sentence similarity prototype.
 
-During my internship, I help to drive the digital transformation on HR processes via deep learning model. I deployed a multilingual sentence-BERT model to identify similar documents, significantly reducing the need for manual searches. I tested the model with public and the company dataset to ensure the model performance. I also adapted the model for server deployment using FastAPI, so that our colleague could use the prototype implementation for sentence similarity.This experience taught me how to analyze and solve real-world problems while effectively communicating with colleagues, understanding their needs, and meeting their requirements.
+This internship experience taught me how to analyze and solve real-world problems, communicate effectively with non-technical colleagues, understand their needs, and meet their requirements. I discovered a passion for helping others using data or AI techniques.
