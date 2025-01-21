@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-### Master thesis at IMEC
+## Master thesis at IMEC
 
 ![ADAS](/assets/img/ADAS.png)
 
@@ -12,7 +12,7 @@ The study uses a simulated radar dataset for training and testing, and **results
 
 [thesis](https://drive.google.com/file/d/1We_Tj7kH5zQnx3tgekpDHJgRcONtFNU5/view?usp=share_link) [sildes](https://drive.google.com/file/d/1EPF1iVZVnIMF0pT87eEEiJqcJddPANxU/view?usp=share_link)
 
-### Internship in BMW Group
+## Internship in BMW Group
 
 ![sentencesimilarity](/assets/img/sentencesimilarity.png)
 [image source](https://www.kaggle.com/models/google/universal-sentence-encoder/tensorFlow2/universal-sentence-encoder/2?tfhub-redirect=true)
