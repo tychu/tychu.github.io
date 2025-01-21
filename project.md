@@ -14,7 +14,7 @@ The study uses a simulated radar dataset for training and testing, and **results
 
 ### Internship in BMW Group
 
-![sentencesimilarity](/assets/img/sentence similarity.png)
+![sentence similarity](/assets/img/sentence similarity.png)
 [image source](https://www.kaggle.com/models/google/universal-sentence-encoder/tensorFlow2/universal-sentence-encoder/2?tfhub-redirect=true)
 
 I worked as a Data Analytics Intern in the Process, Digitization and Governance Department at BMW Group in Munich, Germany from March 2022 to August 2022. During this internship, Chu played a key role in a data analytics project focused on the digital transformation of the Human Resource department.
