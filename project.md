@@ -32,6 +32,9 @@ This internship experience taught me how to analyze and solve real-world problem
 
 ## Pac-Man project
 
+![pacman_game](/assets/img/pacman_game.gif)
+[image source](https://ai.berkeley.edu/project_overview.html)
+
 This is a project for the Fundamental AI course at KU Leuven.
 
 The goal of this project is to implement Artificial Intelligence search algorithms for Pac-Man to control its path using Python code within a well-structured Pac-Man game.
