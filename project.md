@@ -45,7 +45,7 @@ This project is derived from [Berkeley AI project](https://ai.berkeley.edu/searc
 
 ## Seminar
 
-[ASR](/assets/img/ASR.png)  
+![ASR](/assets/img/ASR.png)  
 [image source](https://developer.nvidia.com/blog/how-to-build-domain-specific-automatic-speech-recognition-models-on-gpus/)
 
 The seminar "Selected Topics in Human Language Technology and Machine Learning" at Lehrstuhl Informatik 6, RWTH Aachen University, involves a structured process for students to deeply understand and present a chosen topic in the field of human language technology and machine learning.
