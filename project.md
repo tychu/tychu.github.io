@@ -32,7 +32,7 @@ This internship experience taught me how to analyze and solve real-world problem
 
 [Internship certificate](https://drive.google.com/file/d/1ITSPpCA3INYfUjtUF4SBm-yZZbAupT77/view?usp=share_link) (which lists the tasks I accompolished and includes the evaluation from my mentor)
 
-## Pac-Man project
+## Pac-Man project: AI search algorithms implementation
 
 ![pacman_game](/assets/img/pacman_game.gif)  
 [image source](https://ai.berkeley.edu/project_overview.html)
