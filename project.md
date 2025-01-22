@@ -10,8 +10,8 @@ This master's thesis investigates **end-to-end deep learning models for radar-ba
 
 The study uses a simulated radar dataset for training and testing, and **results demonstrate the potential advantages of processing raw ADC data for improved accuracy and efficiency in object detection**. The thesis concludes by suggesting avenues for future research to optimize the proposed models.
 
-[thesis](https://drive.google.com/file/d/1We_Tj7kH5zQnx3tgekpDHJgRcONtFNU5/view?usp=share_link)   
-[sildes](https://drive.google.com/file/d/1EPF1iVZVnIMF0pT87eEEiJqcJddPANxU/view?usp=share_link)   
+[Thesis](https://drive.google.com/file/d/1We_Tj7kH5zQnx3tgekpDHJgRcONtFNU5/view?usp=share_link)   
+[Sildes](https://drive.google.com/file/d/1EPF1iVZVnIMF0pT87eEEiJqcJddPANxU/view?usp=share_link)   
 [Codes](https://github.com/tychu/master_thesis_T-FFTRadNet/tree/cleaning)  
 
 ## Internship in BMW Group
@@ -45,11 +45,15 @@ This project is derived from [Berkeley AI project](https://ai.berkeley.edu/searc
 
 ## Seminar
 
+[ASR](/assets/img/ASR.png)  
+[image source](https://developer.nvidia.com/blog/how-to-build-domain-specific-automatic-speech-recognition-models-on-gpus/)
+
 The seminar "Selected Topics in Human Language Technology and Machine Learning" at Lehrstuhl Informatik 6, RWTH Aachen University, involves a structured process for students to deeply understand and present a chosen topic in the field of human language technology and machine learning.
 
 This report is exploring methods for integrating language models (LMs) into end-to-end automatic speech recognition (ASR) systems.  It examines both external LM integration techniques, such as Shallow, Cold, and Component Fusion, and internal LM methods, including the Density Ratio method and Hybrid Autoregressive Transducer. This report presents a **theoretical background on ASR and LMs, details various LM integration approaches, and analyzes experimental results comparing their effectiveness in improving ASR accuracy**, particularly in target domains different from the training data.  The work concludes by discussing the advantages and disadvantages of each approach and suggesting future research directions.
 
-[Report](https://drive.google.com/file/d/1f8AfPgvVsO73TB3XqxFbCke1ZtCrz43m/view?usp=share_link)
+[Report](https://drive.google.com/file/d/1f8AfPgvVsO73TB3XqxFbCke1ZtCrz43m/view?usp=share_link)  
+[Slides](https://drive.google.com/file/d/1f8AfPgvVsO73TB3XqxFbCke1ZtCrz43m/view?usp=share_link)
 
 **Seminar Structure and Achievements:**
 
