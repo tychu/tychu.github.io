@@ -30,6 +30,8 @@ My responsibilities included:
 
 This internship experience taught me how to analyze and solve real-world problems, communicate effectively with non-technical colleagues, understand their needs, and meet their requirements. I discovered a passion for helping others using data or AI techniques.
 
+[Internship certificate](https://drive.google.com/file/d/1ITSPpCA3INYfUjtUF4SBm-yZZbAupT77/view?usp=share_link) (which lists the tasks I accompolished and includes the evaluation from my mentor)
+
 ## Pac-Man project
 
 ![pacman_game](/assets/img/pacman_game.gif)  
