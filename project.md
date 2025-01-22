@@ -45,7 +45,7 @@ This project is derived from [Berkeley AI project](https://ai.berkeley.edu/searc
 
 [Codes](https://github.com/tychu/Pac-Man)
 
-## Seminar
+## Seminar: End-to-End ASR LM integration
 
 ![ASR](/assets/img/ASR.png)  
 [image source](https://developer.nvidia.com/blog/how-to-build-domain-specific-automatic-speech-recognition-models-on-gpus/)
