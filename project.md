@@ -6,7 +6,7 @@ title: Projects
 
 ![ADAS](/assets/img/ADAS.png)
 
-This master's thesis investigates **end-to-end deep learning models for radar-based object detection**, focusing on directly processing raw Analog-to-Digital Converter (ADC) data. The research compares this approach to traditional methods using pre-processed radar data, such as Range-Doppler maps. Several **novel model architectures are proposed and evaluated**, including Extended T-FFTRadNet and ADAT-FFTRadNet, which incorporate advanced techniques like Swin Transformers and adaptive-directional attention. 
+This master's thesis is conducted within [IMEC](https://www.imec-int.com/en) (an international research & development organization, active in the fields of nanoelectronics and digital technologies with headquarters in Belgium). This thesis investigates **end-to-end deep learning models for radar-based object detection**, focusing on directly processing raw Analog-to-Digital Converter (ADC) data. The research compares this approach to traditional methods using pre-processed radar data, such as Range-Doppler maps. Several **novel model architectures are proposed and evaluated**, including Extended T-FFTRadNet and ADAT-FFTRadNet, which incorporate advanced techniques like Swin Transformers and adaptive-directional attention. 
 
 The study uses a simulated radar dataset for training and testing, and **results demonstrate the potential advantages of processing raw ADC data for improved accuracy and efficiency in object detection**. The thesis concludes by suggesting avenues for future research to optimize the proposed models.
 
